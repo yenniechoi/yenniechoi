@@ -19,7 +19,7 @@
 
 
 
-<a href="https://https://intheham.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFDA78?style=for-the-badge&logo=Tistory&logoColor=000000&link=https://henniee.tistory.com"/></a>
+<a href="https://intheham.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFDA78?style=for-the-badge&logo=Tistory&logoColor=000000&link=https://henniee.tistory.com"/></a>
 <a href="mailto:choiyeah123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=choiyeah123@gmail.com"/></a>
 
 
