@@ -49,8 +49,8 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yenniechoi&theme=transparent&border_radius=30&mode=weekly)](https://git.io/streak-stats)
-![commit](https://img.shields.io/github/last-commit/yenniechoi/Algorithm.svg)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyenniechoi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yenniechoi/Algorithm?color=%238FBAEE&labelColor=%23858282&label=Algorithm)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyenniechoi%2Fhit-counter&count_bg=%238FBAEE&title_bg=%23858282&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- https://h-owo-ld.tistory.com/264 -->
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd -->
