@@ -1,5 +1,5 @@
 <!-- https://github.com/kyechan99/capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%I'm%Yennie&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Yennie&fontSize=50&animation=fadeIn)
 
 ### Hi there 👋
 
