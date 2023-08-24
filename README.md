@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi! I'm Yennie;%20render&fontSize=90" />
+
 ### Hi there 👋
 
 <!--
