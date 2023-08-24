@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi! I'm Yennie;%20render&fontSize=90" />
+<!-- https://github.com/kyechan99/capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Yennie's_GitHub%20render&fontSize=90&animation=scaleIn)
 
 ### Hi there 👋
 
