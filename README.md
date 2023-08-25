@@ -35,14 +35,6 @@
 </p>
 <br/>
 
-### Learning...
-<p align="start">
-  <img src="http://img.shields.io/badge/-MySQL-27282C?style=flat&logo=mysql&">
-  <img src="http://img.shields.io/badge/-Python-27282C?style=flat&logo=python&">
-</p>
-
-<br/>
-
 ### Git Status
 
 <br/>
